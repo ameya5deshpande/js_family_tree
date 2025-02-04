@@ -1,9 +1,9 @@
 // Game of Thrones family tree (https://en.wikipedia.org/wiki/Game_of_Thrones)
 // file created by djBirdman (https://github.com/djBirdman)
 data = {
-    "start": "benjenstark1",
+    "start": "Ameya",
     "persons": {
-        "benjenstark1": { "id": "benjenstark1", "name": "Benjen Stark", "birthyear": 84, "deathyear": "101-121", "own_unions": ["uBenjenLysa"] },
+        "Ameya": { "id": "Ameya", "name": "Ameya Deshpande", "birthyear": 92, "deathyear": "", "own_unions": ["uBenjenLysa"] },
         "lysalocke1": { "id": "lysalocke1", "name": "Lysa Locke", "birthyear": 84, "own_unions": ["uBenjenLysa"] },
         "rickonstark1": { "id": "rickonstark1", "name": "Rickon Stark", "birthyear": 96, "deathyear": 121, "own_unions": ["uRickonGilliane"], "parent_union": "uBenjenLysa" },
         "bennardstark1": { "id": "bennardstark1", "name": "Bennard Stark", "birthyear": 105, "deathyear": 126, "own_unions": ["uBennardMargaret"], "parent_union": "uBenjenLysa" },
